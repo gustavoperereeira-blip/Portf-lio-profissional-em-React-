@@ -1,2 +1,7 @@
-# Portf-lio-profissional-em-React-
-“Portfólio profissional em React — páginas, componentes reutilizáveis, deploy”
+src/
+  assets/
+  components/
+  pages/
+  styles/
+public/
+docs/
